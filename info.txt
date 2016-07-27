@@ -1,0 +1,1 @@
+Hello Word ! This is info.txt file. I just want to change this file status
